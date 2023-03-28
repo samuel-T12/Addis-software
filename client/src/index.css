@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+
+.stat-circle{
+  border-width: "12px";
+  background-color: "#1595a3";
+  width: "120px";
+  height: "120px";
+  border-radius: "100px";
+  justify-content: "center";
+  display: "flex";
+  color: "white";
+  align-items: "center";
+  font-size: "32px";
+}
